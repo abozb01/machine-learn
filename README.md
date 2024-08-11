@@ -21,6 +21,6 @@ Ensure you have the following Python libraries installed:
 Install these libraries using pip:
 ```bash
 pip install pandas matplotlib scikit-learn numpy
-![Sales Prediction Visualization](assets/sales_prediction.png)
+![Sales Prediction Visualization](Screenshot (291).png)
 
 
